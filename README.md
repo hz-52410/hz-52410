@@ -65,8 +65,8 @@ GitHub 个人主页 README（请先改这两处）
 **Tooling**
 
 <img
-  src="https://skillicons.dev/icons?i=eslint,prettier,vitest,jest,pnpm&theme=dark&perline=5"
-  alt="Tooling: ESLint, Prettier, Vitest, Jest, pnpm"
+  src="https://skillicons.dev/icons?i=vitest,jest,pnpm&theme=dark&perline=3"
+  alt="Tooling:  Vitest, Jest, pnpm"
 />
 
 </div>
