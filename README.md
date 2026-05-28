@@ -36,19 +36,42 @@ GitHub 个人主页 README（请先改这两处）
 
 ## Tech Stack / 技术栈
 
+<div align="center">
+
+<!-- 图标由 https://skillicons.dev 生成；修改 i= 参数即可增删技能 -->
+<!-- 示例：https://skillicons.dev/icons?i=electron,tauri,androidstudio&theme=dark&perline=3 -->
+
 **Core**
-- TypeScript / JavaScript / Node.js
-- Vue / React / Next.js
-- Python
+
+<img
+  src="https://skillicons.dev/icons?i=ts,js,nodejs,vue,react,nextjs,python&theme=dark&perline=7"
+  alt="Core: TypeScript, JavaScript, Node.js, Vue, React, Next.js, Python"
+/>
+
+**Desktop**
+
+<img
+  src="https://skillicons.dev/icons?i=electron,tauri,androidstudio&theme=dark&perline=3"
+  alt="Desktop: Electron, Tauri, Android Studio"
+/>
 
 **Data & Infra**
-- PostgreSQL / Redis
-- Docker / GitHub Actions
-- Vercel / Cloudflare
+
+<img
+  src="https://skillicons.dev/icons?i=postgres,redis,docker,githubactions,vercel,cloudflare&theme=dark&perline=6"
+  alt="Data & Infra: PostgreSQL, Redis, Docker, GitHub Actions, Vercel, Cloudflare"
+/>
 
 **Tooling**
-- ESLint / Prettier / Vitest(Jest)
-- pnpm（需要时使用 Monorepo）
+
+<img
+  src="https://skillicons.dev/icons?i=eslint,prettier,vitest,jest,pnpm&theme=dark&perline=5"
+  alt="Tooling: ESLint, Prettier, Vitest, Jest, pnpm"
+/>
+
+</div>
+
+> 在 [skillicons.dev](https://skillicons.dev) 勾选图标后复制 URL，替换上方 `i=` 列表即可。
 
 ---
 
@@ -66,44 +89,50 @@ GitHub 个人主页 README（请先改这两处）
 
 <div align="center">
 
-<!-- GitHub Readme Stats: overall + top languages -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hz-52410&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
+<img
+  src="https://github-profile-trophy.vercel.app/?username=hz-52410&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://readme-stat-kappa.vercel.app/api?username=hz-52410&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=📈%20HZ's%20GitHub%20Stats&bg_color=0D1117"
+    height="180em"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hz-52410&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true&theme=default"
-    height="165"
-    alt="GitHub stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hz-52410&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117"
+    height="180em"
+    alt="GitHub Streak"
   />
-</picture>
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hz-52410&layout=compact&langs_count=8&theme=transparent"
-    media="(prefers-color-scheme: dark)"
+<br/>
+
+<div align="center">
+  <img
+    src="https://readme-stat-kappa.vercel.app/api/top-langs/?username=hz-52410&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css,jupyter,Jupyter%20Notebook&bg_color=0D1117&langs_count=8"
+    height="180em"
+    alt="Top Languages"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hz-52410&layout=compact&langs_count=8&theme=default"
-    height="165"
-    alt="Top languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hz-52410&theme=tokyonight&utcOffset=8"
+    height="180em"
+    alt="Productive Time"
   />
-</picture>
+</div>
 
-<!-- Streak Stats -->
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=hz-52410&theme=transparent&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
+<br/>
+
+<div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=hz-52410&theme=default&hide_border=true"
-    height="180"
-    alt="GitHub streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hz-52410&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FFFFFF"
+    alt="Contribution Activity Graph"
   />
-</picture>
-
 </div>
 
 ---
