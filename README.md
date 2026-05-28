@@ -8,7 +8,12 @@ GitHub 个人主页 README（请先改这两处）
 
 # 你好，我是 HZ
 
-**学习型工程师｜把“能用”打磨成“好用”**
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&background=8958FF57&center=true&vCenter=true&width=600&lines=把「能用」打磨成「好用」;小而完成，持续迭代;Ship+small,+learn+fast,+iterate+often;工程化+%7C+性能+%7C+可维护+%7C+体验"
+    alt="Typing SVG"
+  />
+</a>
 
 <a href="mailto:your@email.com">Email</a> ·
 <a href="https://your-site.com">Blog</a> ·
@@ -139,16 +144,16 @@ GitHub 个人主页 README（请先改这两处）
 
 ## Contact / 联系我
 
-- **Email**：your@email.com
-- **Blog**：https://your-site.com
+- **Email**：1451050434@qq.com
+- **Blog**：https://hz-52410.github.io/
 - **GitHub**：https://github.com/hz-52410
 
 > 想交流学习方法、项目复盘、或一起做点小东西，欢迎来信。
 
 ---
-
+<!-- 
 ## Quick Links / 快捷入口（可选）
 
 - ⭐ **置顶项目**：在 GitHub 主页手动 Pin 3–6 个仓库（优先放可运行 Demo 的）
 - 📌 **学习路线**：放到一个 `roadmap` 仓库或博客目录页
-- 🧰 **工具箱**：把常用脚本/模板集中到一个 `toolbox` 仓库
+- 🧰 **工具箱**：把常用脚本/模板集中到一个 `toolbox` 仓库 -->
