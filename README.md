@@ -1,22 +1,23 @@
 <!--
-Profile README for: YOUR_GITHUB_USERNAME
-Tips:
-- Replace placeholders: [ ... ]
-- Replace YOUR_GITHUB_USERNAME with your GitHub username
+GitHub 个人主页 README（请先改这两处）
+- 把下方的 hz-52410 改成你的 GitHub 用户名（否则统计卡片不生效）
+- 把联系方式链接改成你自己的（否则会显得像模板）
 -->
 
 <div align="center">
 
-# 你好，我是 Alex / Hi, I'm Alex
+# 你好，我是 HZ
 
-**学习型工程师｜专注把“能用”做成“好用”**  
-**Learning-first builder who turns “works” into “delightful.”**
+**学习型工程师｜把“能用”打磨成“好用”**
 
-<a href="mailto:alex.example@proton.me">Email</a> ·
-<a href="https://alex.example.com">Blog</a> ·
-<a href="https://www.linkedin.com/in/alex-example">LinkedIn</a> ·
-<a href="https://twitter.com/alex_example">X</a> ·
-<a href="https://juejin.cn/user/1234567890">掘金</a>
+<a href="mailto:your@email.com">Email</a> ·
+<a href="https://your-site.com">Blog</a> ·
+<a href="https://github.com/hz-52410?tab=repositories">Projects</a> ·
+<a href="https://juejin.cn/user/your-id">掘金</a>
+
+<p>
+  <img alt="views" src="https://komarev.com/ghpvc/?username=hz-52410&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
@@ -24,41 +25,40 @@ Tips:
 
 ## About / 关于我
 
-- 🇨🇳 **Shanghai (UTC+8)**  
-- 🧭 **Now / 最近在做**: 写作 + 复盘学习笔记，做一些小工具和开源尝试  
-- 🎯 **Focus / 关注点**: 工程化、性能、可维护性、体验一致性  
-- 📄 **Resume / 简历**: [PDF](https://alex.example.com/resume.pdf) / [Web](https://alex.example.com/resume)
+- 🇨🇳 **Chengdu (UTC+8)**
+- 🧭 **最近在做**：把学习沉淀成可复用的小工具 / 模板 / 笔记
+- 🎯 **关注点**：工程化、性能、可维护性、体验一致性
+- 📌 **合作偏好**：需求明确、可验收、愿意把事情做干净
 
-> 我喜欢用“可复用的小作品”来记录学习路径。  
-> I document learning by shipping small, reusable artifacts.
+> 我喜欢用“小而完成”的作品记录学习路径，并持续迭代到可长期维护。
 
 ---
 
 ## Tech Stack / 技术栈
 
 **Core**
-- TypeScript, JavaScript, Node.js
-- React, Next.js
+- TypeScript / JavaScript / Node.js
+- Vue / React / Next.js
 - Python
 
 **Data & Infra**
-- PostgreSQL, Redis
-- Docker, GitHub Actions
+- PostgreSQL / Redis
+- Docker / GitHub Actions
 - Vercel / Cloudflare
 
 **Tooling**
-- ESLint, Prettier, Vitest/Jest
-- pnpm, Turbo/Monorepo (optional)
+- ESLint / Prettier / Vitest(Jest)
+- pnpm（需要时使用 Monorepo）
 
 ---
 
-## Writing / 写作
+## Featured / 精选（把这里换成你的真实作品）
 
-- [从 0 到 1：我如何做学习笔记系统（中文）](https://alex.example.com/posts/notes-system)
-- [Build small, learn fast: my workflow (EN)](https://alex.example.com/posts/build-small-learn-fast)
-- [工程化 checklist：一个 repo 上线前我会检查什么（中文）](https://alex.example.com/posts/release-checklist)
+- **项目**：`你的代表项目 A` —— 一句话价值主张 + 关键技术点（链接到 repo / demo）
+- **项目**：`你的代表项目 B` —— 解决的问题 + 指标/效果（若有）
+- **文章**：`你的高质量文章` —— 可复用的方法论/总结（链接）
 
-> 你也可以把这里换成：RSS、博客目录页、Notion、语雀、掘金专栏等。
+> 建议只放 3–5 条，越真实、越可验证越好（Demo/截图/指标/对比）。
 
 ---
 
@@ -69,11 +69,11 @@ Tips:
 <!-- GitHub Readme Stats: overall + top languages -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=hz-52410&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true&theme=default"
+    src="https://github-readme-stats.vercel.app/api?username=hz-52410&show_icons=true&hide_rank=false&include_all_commits=true&count_private=true&theme=default"
     height="165"
     alt="GitHub stats"
   />
@@ -81,11 +81,11 @@ Tips:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hz-52410&layout=compact&langs_count=8&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hz-52410&layout=compact&langs_count=8&theme=default"
     height="165"
     alt="Top languages"
   />
@@ -94,11 +94,11 @@ Tips:
 <!-- Streak Stats -->
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"
+    srcset="https://streak-stats.demolab.com?user=hz-52410&theme=transparent&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true"
+    src="https://streak-stats.demolab.com?user=hz-52410&theme=default&hide_border=true"
     height="180"
     alt="GitHub streak"
   />
@@ -110,17 +110,16 @@ Tips:
 
 ## Contact / 联系我
 
-- **Email**: alex.example@proton.me
-- **Blog**: https://alex.example.com
-- **LinkedIn**: https://www.linkedin.com/in/alex-example
-- **X**: https://twitter.com/alex_example
+- **Email**：your@email.com
+- **Blog**：https://your-site.com
+- **GitHub**：https://github.com/hz-52410
 
-> 想交流学习方法、写作习惯、项目复盘、或一起做点小东西，欢迎来信。
+> 想交流学习方法、项目复盘、或一起做点小东西，欢迎来信。
 
 ---
 
 ## Quick Links / 快捷入口（可选）
 
-- ⭐ 置顶项目：在你的 GitHub 主页手动 Pin 3-6 个仓库
-- 📌 学习路线：放到一个 `roadmap` 仓库或博客页面
-- 🧰 常用工具：把你做的小脚本/模板集中到一个 `toolbox` 仓库
+- ⭐ **置顶项目**：在 GitHub 主页手动 Pin 3–6 个仓库（优先放可运行 Demo 的）
+- 📌 **学习路线**：放到一个 `roadmap` 仓库或博客目录页
+- 🧰 **工具箱**：把常用脚本/模板集中到一个 `toolbox` 仓库
