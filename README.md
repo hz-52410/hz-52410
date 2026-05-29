@@ -10,12 +10,12 @@ GitHub 个人主页 README（请先改这两处）
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&background=8958FF57&center=true&vCenter=true&width=600&lines=把「能用」打磨成「好用」;小而完成，持续迭代;Ship+small,+learn+fast,+iterate+often;工程化+%7C+性能+%7C+可维护+%7C+体验"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&lines=把「能用」打磨成「好用」;小而完成，持续迭代;Ship+small,+learn+fast,+iterate+often;工程化+%7C+性能+%7C+可维护+%7C+体验"
     alt="Typing SVG"
   />
 </a>
 
-<a href="mailto:your@email.com">Email</a> ·
+<a href="mailto:1451050434@qq.com">Email</a> ·
 <a href="https://your-site.com">Blog</a> ·
 <a href="https://github.com/hz-52410?tab=repositories">Projects</a> ·
 <a href="https://juejin.cn/user/your-id">掘金</a>
