@@ -1,159 +1,119 @@
-<!--
-GitHub 个人主页 README（请先改这两处）
-- 把下方的 hz-52410 改成你的 GitHub 用户名（否则统计卡片不生效）
-- 把联系方式链接改成你自己的（否则会显得像模板）
--->
+<!-- Cyber Developer Profile -->
 
 <div align="center">
 
-# 你好，我是 HZ
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=HZ%20%2F%2F%20DEVELOPER&fontSize=48&fontAlignY=38&color=0:09090B,100:6D28D9&fontColor=67E8F9&desc=BUILD%20%E2%80%A2%20SHIP%20%E2%80%A2%20EVOLVE&descAlignY=58&descSize=16&animation=twinkling" width="100%" alt="HZ Developer Header" />
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&lines=把「能用」打磨成「好用」;小而完成，持续迭代;Ship+small,+learn+fast,+iterate+often;工程化+%7C+性能+%7C+可维护+%7C+体验"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=67E8F9&background=00000000&center=true&vCenter=true&width=720&lines=%3E+Turning+ideas+into+working+systems;%3E+Engineering+for+clarity+and+performance;%3E+Learning+%7C+Building+%7C+Iterating" alt="Typing intro" />
 </a>
 
-<a href="mailto:1451050434@qq.com">Email</a> ·
-<a href="https://your-site.com">Blog</a> ·
-<a href="https://github.com/hz-52410?tab=repositories">Projects</a> ·
-<a href="https://juejin.cn/user/your-id">掘金</a>
+<br/><br/>
 
-<p>
-  <img alt="views" src="https://komarev.com/ghpvc/?username=hz-52410&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<a href="https://github.com/hz-52410"><img src="https://img.shields.io/badge/GITHUB-hz--52410-09090B?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=18181B" /></a>
+<a href="mailto:1451050434@qq.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-09090B?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=18181B" /></a>
+<a href="https://hz-52410.github.io/"><img src="https://img.shields.io/badge/BLOG-EXPLORE-09090B?style=for-the-badge&logo=rss&logoColor=A78BFA&labelColor=18181B" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hz-52410&label=PROFILE+SIGNALS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  SYSTEM STATUS : ONLINE                                      │
+│  LOCATION       : CHENGDU / CN  |  UTC+8                     │
+│  CURRENT MODE   : BUILDING SMALL, USEFUL, LONG-LIVED THINGS  │
+│  FOCUS          : ENGINEERING • PERFORMANCE • DX             │
+└──────────────────────────────────────────────────────────────┘
+```
 
-## About / 关于我
+## `> ./profile --about`
 
-- 🇨🇳 **Chengdu (UTC+8)**
-- 🧭 **最近在做**：把学习沉淀成可复用的小工具 / 模板 / 笔记
-- 🎯 **关注点**：工程化、性能、可维护性、体验一致性
-- 📌 **合作偏好**：需求明确、可验收、愿意把事情做干净
+- **Identity** — Developer exploring the gap between ideas and reliable software.
+- **Current mission** — Turn learning into reusable tools, templates, and technical notes.
+- **Core principles** — Simple architecture, measurable performance, maintainable code.
+- **Collaboration** — Clear requirements, practical solutions, and verifiable results.
 
-<!-- > 我喜欢用“小而完成”的作品记录学习路径，并持续迭代到可长期维护。 -->
-
----
-
-## Tech Stack / 技术栈
+## `> ./tech --inventory`
 
 <div align="center">
 
-<!-- 图标由 https://skillicons.dev 生成；修改 i= 参数即可增删技能 -->
-<!-- 示例：https://skillicons.dev/icons?i=electron,tauri,androidstudio&theme=dark&perline=3 -->
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,vue,react,nextjs,python&theme=dark&perline=7" alt="Languages and frameworks" />
 
-**Core**
+### Desktop & Mobile
+<img src="https://skillicons.dev/icons?i=electron,tauri,androidstudio&theme=dark&perline=3" alt="Desktop and mobile technologies" />
 
-<img
-  src="https://skillicons.dev/icons?i=ts,js,nodejs,vue,react,nextjs,python&theme=dark&perline=7"
-  alt="Core: TypeScript, JavaScript, Node.js, Vue, React, Next.js, Python"
-/>
+### Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,githubactions,vercel,cloudflare&theme=dark&perline=6" alt="Data and infrastructure" />
 
-**Desktop**
-
-<img
-  src="https://skillicons.dev/icons?i=electron,tauri,androidstudio&theme=dark&perline=3"
-  alt="Desktop: Electron, Tauri, Android Studio"
-/>
-
-**Data & Infra**
-
-<img
-  src="https://skillicons.dev/icons?i=postgres,redis,docker,githubactions,vercel,cloudflare&theme=dark&perline=6"
-  alt="Data & Infra: PostgreSQL, Redis, Docker, GitHub Actions, Vercel, Cloudflare"
-/>
-
-**Tooling**
-
-<img
-  src="https://skillicons.dev/icons?i=vitest,jest,pnpm&theme=dark&perline=3"
-  alt="Tooling:  Vitest, Jest, pnpm"
-/>
+### Testing & Tooling
+<img src="https://skillicons.dev/icons?i=vitest,jest,pnpm&theme=dark&perline=3" alt="Testing and tooling" />
 
 </div>
 
-<!-- > 在 [skillicons.dev](https://skillicons.dev) 勾选图标后复制 URL，替换上方 `i=` 列表即可。 -->
+## `> ./featured --list`
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🚀 PROJECT // 01</h3>
+      <b>Developer Project</b><br/><br/>
+      A practical tool or application focused on a real problem, clean implementation, and reusable engineering patterns.<br/><br/>
+      <a href="https://github.com/hz-52410?tab=repositories">Open repositories →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧪 PROJECT // 02</h3>
+      <b>Experiment & Prototype</b><br/><br/>
+      A proof of concept for testing new technologies, measuring ideas, and converting experiments into lessons.<br/><br/>
+      <a href="https://github.com/hz-52410?tab=repositories">Explore work →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📝 KNOWLEDGE // 03</h3>
+      <b>Notes & Methodology</b><br/><br/>
+      Technical articles and summaries designed to make complex decisions easier to understand and reuse.<br/><br/>
+      <a href="https://hz-52410.github.io/">Read the blog →</a>
+    </td>
+  </tr>
+</table>
 
-## Featured / 精选（把这里换成你的真实作品）
-
-- **项目**：`你的代表项目 A` —— 一句话价值主张 + 关键技术点（链接到 repo / demo）
-- **项目**：`你的代表项目 B` —— 解决的问题 + 指标/效果（若有）
-- **文章**：`你的高质量文章` —— 可复用的方法论/总结（链接）
-
-<!-- > 建议只放 3–5 条，越真实、越可验证越好（Demo/截图/指标/对比）。 -->
-
----
-
-## Stats / 统计
+## `> ./github --telemetry`
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=hz-52410&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"
-  alt="GitHub Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=hz-52410&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=15" alt="GitHub trophies" />
 
-</div>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hz-52410&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" height="180" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hz-52410&theme=tokyonight&utcOffset=8" height="180" alt="Productive time" />
 
 <br/>
 
-<div align="center">
-  <img
-    src="https://readme-stat-kappa.vercel.app/api?username=hz-52410&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=📈%20HZ's%20GitHub%20Stats&bg_color=0D1117"
-    height="180em"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hz-52410&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117"
-    height="180em"
-    alt="GitHub Streak"
-  />
+<img src="https://readme-stat-kappa.vercel.app/api/top-langs/?username=hz-52410&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css,jupyter,Jupyter%20Notebook&bg_color=0D1117&title_color=67E8F9&text_color=C4B5FD" height="180" alt="Top languages" />
+<img src="https://readme-stat-kappa.vercel.app/api?username=hz-52410&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=GitHub%20Telemetry&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C4B5FD" height="180" alt="GitHub statistics" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hz-52410&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&area_color=6D28D9" width="95%" alt="Contribution activity graph" />
+
 </div>
 
-<br/>
+## `> ./connect --open-channel`
+
+```bash
+EMAIL  = "1451050434@qq.com"
+BLOG   = "https://hz-52410.github.io/"
+GITHUB = "https://github.com/hz-52410"
+STATUS = "OPEN_TO_RESEARCH_AND_BUILDING"
+```
 
 <div align="center">
-  <img
-    src="https://readme-stat-kappa.vercel.app/api/top-langs/?username=hz-52410&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css,jupyter,Jupyter%20Notebook&bg_color=0D1117&langs_count=8"
-    height="180em"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hz-52410&theme=tokyonight&utcOffset=8"
-    height="180em"
-    alt="Productive Time"
-  />
+
+<a href="mailto:1451050434@qq.com"><img src="https://img.shields.io/badge/—_INITIATE_CONTACT_—-09090B?style=for-the-badge&logo=signal&logoColor=67E8F9&labelColor=18181B" /></a>
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hz-52410&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FFFFFF"
-    alt="Contribution Activity Graph"
-  />
-</div>
-
----
-
-## Contact / 联系我
-
-- **Email**：1451050434@qq.com
-- **Blog**：https://hz-52410.github.io/
-- **GitHub**：https://github.com/hz-52410
-
-> 想交流学习方法、项目复盘、或一起做点小东西，欢迎来信。
-
----
-<!-- 
-## Quick Links / 快捷入口（可选）
-
-- ⭐ **置顶项目**：在 GitHub 主页手动 Pin 3–6 个仓库（优先放可运行 Demo 的）
-- 📌 **学习路线**：放到一个 `roadmap` 仓库或博客目录页
-- 🧰 **工具箱**：把常用脚本/模板集中到一个 `toolbox` 仓库 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090B,100:6D28D9" width="100%" alt="Footer" />
